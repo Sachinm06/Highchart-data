@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/funnel.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="head">
+          <div class="select-container country">
+            <span class="placeholder">Country</span>
+            <select id="countrySelect" onchange="changeCities()">
+            </select>
+          </div>
+          <div class="select-container topic">
+            <span class="placeholder">Topic</span>
+            <select id="citySelect" onchange="showOptions()">
+            </select>
+          </div>
+        </div>
+        <div class="data-div">
+          <div id="optionsDiv" class="optionDiv" style="display: none;">
+            <ul id="optionsList" class="optionList"></ul>
+          </div>
+    
+          <div id="optionData" class="chartDiv">
+    
+          </div>
+          <div class="selectedOption"></div>
+          <div id="chart-container" style="height: 500px;"></div>
+        </div>
+    
+      </div>    
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

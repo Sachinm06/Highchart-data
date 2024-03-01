@@ -1,0 +1,1924 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Summary of Population Indicators",
+                            "data": {
+                                "countries": [
+                                    "Total pop",
+                                    "Adolescents (10-19)",
+                                    "% of pop who are adolescent",
+                                    "Women of Reproductive Age (15-49)",
+                                    "Teen girls (15-19)"
+                                ],
+                                "years": {
+                                    "2020": {
+                                        "Total pop": 38928341,
+                                        "Adolescents (10-19)": 9821559,
+                                        "% of pop who are adolescent": 25,
+                                        "Women of Reproductive Age (15-49)": 9244871,
+                                        "Teen girls (15-19)": 2251504
+                                    },
+                                    "2030": {
+                                        "Total pop": 48093576,
+                                        "Adolescents (10-19)": 10877019,
+                                        "% of pop who are adolescent": 23,
+                                        "Women of Reproductive Age (15-49)": 12514998,
+                                        "Teen girls (15-19)": 2581513
+                                    },
+                                    "Change #": {
+                                        "Total pop": 9165235,
+                                        "Adolescents (10-19)": 1055460,
+                                        "% of pop who are adolescent": -3,
+                                        "Women of Reproductive Age (15-49)": 3270127,
+                                        "Teen girls (15-19)": 330009
+                                    },
+                                    "Change %": {
+                                        "Total pop": 24,
+                                        "Adolescents (10-19)": 11,
+                                        "% of pop who are adolescent": -10,
+                                        "Women of Reproductive Age (15-49)": 40,
+                                        "Teen girls (15-19)": 13
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational snapshot: Girls who Experienced Each Life Event by Age 15 [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational snapshot: Girls who Experienced Each Life Event by Age 15 [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cambodia",
+            "cities": [
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cameroon",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ethiopia",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Summary of Population Indicators",
+                            "data": {
+                                "countries": [
+                                    "Total pop",
+                                    "Adolescents (10-19)",
+                                    "% of pop who are adolescent",
+                                    "Women of Reproductive Age (15-49)",
+                                    "Teen girls (15-19)"
+                                ],
+                                "years": {
+                                    "2020": {
+                                        "Total pop": 41,
+                                        "Adolescents (10-19)": 9859,
+                                        "% of pop who are adolescent": 25,
+                                        "Women of Reproductive Age (15-49)": 921,
+                                        "Teen girls (15-19)": 2504
+                                    },
+                                    "2030": {
+                                        "Total pop": 93576,
+                                        "Adolescents (10-19)": 108779,
+                                        "% of pop who are adolescent": 23,
+                                        "Women of Reproductive Age (15-49)": 125198,
+                                        "Teen girls (15-19)": 513
+                                    },
+                                    "Change #": {
+                                        "Total pop": 5235,
+                                        "Adolescents (10-19)": 10550,
+                                        "% of pop who are adolescent": -3,
+                                        "Women of Reproductive Age (15-49)": 327127,
+                                        "Teen girls (15-19)": 9
+                                    },
+                                    "Change %": {
+                                        "Total pop": 4,
+                                        "Adolescents (10-19)": 1,
+                                        "% of pop who are adolescent": 10,
+                                        "Women of Reproductive Age (15-49)": 4,
+                                        "Teen girls (15-19)": 3
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational snapshot: Girls who Experienced Each Life Event by Age 15 [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ghana",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational snapshot: Girls who Experienced Each Life Event by Age 15 [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Indonesia",
+            "cities": [
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kenya",
+            "cities": [
+                {
+                    "name": "Demographics and Fertility",
+                    "options": [
+                        {
+                            "name": "Summary of Population Indicators",
+                            "data": {
+                                "countries": [
+                                    "Total pop",
+                                    "Adolescents (10-19)",
+                                    "% of pop who are adolescent",
+                                    "Women of Reproductive Age (15-49)",
+                                    "Teen girls (15-19)"
+                                ],
+                                "years": {
+                                    "2020": {
+                                        "Total pop": 28341,
+                                        "Adolescents (10-19)": 91559,
+                                        "% of pop who are adolescent": 25,
+                                        "Women of Reproductive Age (15-49)": 1044871,
+                                        "Teen girls (15-19)": 51504
+                                    },
+                                    "2030": {
+                                        "Total pop": 48093576,
+                                        "Adolescents (10-19)": 10877019,
+                                        "% of pop who are adolescent": 23,
+                                        "Women of Reproductive Age (15-49)": 12514998,
+                                        "Teen girls (15-19)": 2581513
+                                    },
+                                    "Change #": {
+                                        "Total pop": 9165235,
+                                        "Adolescents (10-19)": 1055460,
+                                        "% of pop who are adolescent": -3,
+                                        "Women of Reproductive Age (15-49)": 3270127,
+                                        "Teen girls (15-19)": 330009
+                                    },
+                                    "Change %": {
+                                        "Total pop": 24,
+                                        "Adolescents (10-19)": 11,
+                                        "% of pop who are adolescent": -10,
+                                        "Women of Reproductive Age (15-49)": 40,
+                                        "Teen girls (15-19)": 13
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "name": "Population Pyramid for 2020",
+                            "data": {
+                                "Male": [
+                                    -2,
+                                    -2.5,
+                                    -3,
+                                    -3.5,
+                                    -4,
+                                    -4.5,
+                                    -5,
+                                    -5.3,
+                                    -5.6,
+                                    -6,
+                                    -6.1,
+                                    -6.2,
+                                    -6.5,
+                                    -6.7,
+                                    -6.9,
+                                    -7,
+                                    -6.9,
+                                    -6.5,
+                                    -6,
+                                    -5.1,
+                                    -3.6
+                                ],
+                                "Female": [
+                                    2,
+                                    2.5,
+                                    3,
+                                    3.5,
+                                    4,
+                                    4.5,
+                                    5,
+                                    5.3,
+                                    5.6,
+                                    6,
+                                    6.1,
+                                    6.2,
+                                    6.5,
+                                    6.7,
+                                    6.9,
+                                    7,
+                                    6.9,
+                                    6.5,
+                                    6,
+                                    5.1,
+                                    3.6
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Age-specific fertility rates (births per 1,000 women)",
+                            "data": {
+                                "chart": {
+                                    "type": "line"
+                                },
+                                "title": {
+                                    "text": "Age-specific fertility rates (births per 1,000 women)"
+                                },
+                                "xAxis": {
+                                    "categories": [
+                                        "2020",
+                                        "2030",
+                                        "Change #",
+                                        "Change %"
+                                    ]
+                                },
+                                "yAxis": {
+                                    "title": {
+                                        "text": "Number of births per 1,000 women"
+                                    }
+                                },
+                                "series": [
+                                    {
+                                        "name": "Total Population",
+                                        "data": [
+                                            10000000,
+                                            10000000,
+                                            9165235,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adolescents",
+                                        "data": [
+                                            2000000,
+                                            2000000,
+                                            1055460,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "name": "Women of Reproductive Age (WRA)",
+                                        "data": [
+                                            300000,
+                                            300000,
+                                            3270127,
+                                            40
+                                        ]
+                                    },
+                                    {
+                                        "name": "Teen Girls",
+                                        "data": [
+                                            500000,
+                                            500000,
+                                            330009,
+                                            13
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Typologies",
+                    "options": [
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Map",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Typologies of Early Pregnancy Matrix",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teen marriage, childbearing, and sexual activity",
+                    "options": [
+                        {
+                            "name": "Cumulative Percent of Girls who had Sex, Got Married, or Had a Birth at Each Age [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational snapshot: Girls who Experienced Each Life Event by Age 15 [Based on Current 20-24-Year-Olds]",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Distribution of Teenage Girls (15-19) by Sexual Activity and Timing of Childbearing",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educational Attainment and Teen Marriage",
+                    "options": [
+                        {
+                            "name": "Educational Attainment Among Ever-Married 20-24-Year-Olds Based on Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Distribution of Ever-Married 20–24-Year-Old's Based on Educational Attainment and Experience of Teen Marriage",
+                            "data": {
+                                "Total Population": 2000000,
+                                "Adolescents": 400000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 60000,
+                                "Teen Girls": 100000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Variation in Educational Attainment among Ever-Married 20–24-Year-Old Women",
+                            "data": {
+                                "Total Population": 1000000,
+                                "Adolescents": 200000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 30000,
+                                "Teen Girls": 50000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teenage Motherhood",
+                    "options": [
+                        {
+                            "name": "Coverage and Quality of Services among Teen Moms and Older Youth Moms",
+                            "data": {
+                                "Total Population": 164689383,
+                                "Adolescents": 300674422,
+                                "Adolescents as % of Population": 0.19,
+                                "WRA": 46215591,
+                                "Teen Girls": 76098850,
+                                "Teen Girls as % of WRA": 0.16
+                            }
+                        },
+                        {
+                            "name": "Subnational Snapshot: Facility Delivery among Teen Moms and Older Youth Moms by District",
+                            "data": {
+                                "Total Population": 10000000,
+                                "Adolescents": 2000000,
+                                "Adolescents as % of Population": 0.2,
+                                "WRA": 300000,
+                                "Teen Girls": 500000,
+                                "Teen Girls as % of WRA": 0.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

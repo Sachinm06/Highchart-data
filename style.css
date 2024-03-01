@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 241, 241);
+  }
+
+  .container {
+    width: 80%;
+    height: 700px;
+    background-color: #ffffff;
+    box-shadow: 0 0 28px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+    padding: 30px;
+  }
+
+  .head {
+    display: flex;
+    padding: 30px 5px;
+    color: #1fa29c;
+    font-size: 19px;
+    font-weight: 300;
+    width: 100%;
+
+  }
+
+  .select-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  select {
+    padding: 10px 30px 10px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    background-color: #fff;
+    appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="%23333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    margin-right: 10px;
+  }
+
+  .country {
+    width: 100%;
+    max-width: 366px;
+  }
+
+  .topic {
+    width: 100%;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .optionDiv {
+    border: 1px solid #ccc;
+    max-width: 330px;
+    height: 500px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+  }
+
+  .data-div {
+    display: flex;
+  }
+
+  .optionList {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .optionList li {
+    cursor: pointer;
+    /* border: 2px solid; */
+    padding: 20px;
+    border-radius: 7px;
+    align-items: center;
+    display: flex;
+
+  }
+
+  .clicked {
+    background-color: #1fa29c;
+    color: #ffffff;
+  }
+
+  .optionList .clicked:before {
+    content: "";
+    width: 11px;
+    height: 24px;
+    background: url(https://i.postimg.cc/wv4MnhXV/indicating-arrow.png) no-repeat center center transparent;
+    position: absolute;
+    right: -10px;
+  }
+
+  .optionList {
+    position: relative;
+  }
+
+  .chartDiv {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%;
+  }
+
+  td {
+    padding: 20px !important;
+  }
+
+  th {
+    padding: 25px !important;
+  }
